@@ -37,4 +37,6 @@ yarn
 yarn start
 ```
 
-#### Desenvolvido por [Flávio Áquila](https://www.linkedin.com/in/flavioaquila/) :purple_heart:
+Abra o [http://localhost:3000](http://localhost:3000) em seu navegador para ver o resultado.
+
+#### Desenvolvido por [Flávio Áquila](https://www.linkedin.com/in/flavioaquila/) :purple_heart: 🚀
