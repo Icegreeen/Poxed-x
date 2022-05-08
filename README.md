@@ -2,11 +2,7 @@
     <a">🔗 A aplicação consiste no desenvolvimento de uma Poxedéx utilizando a PokéAPI</a>
 </h3>
 
-<h1 align="center">
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/FastFeet/master/.github/Sem%20T%C3%ADtulo-1.jpg" width="70%" heigth="70%" />
-</h1>
-
----
+## ![bg(2)](https://user-images.githubusercontent.com/56550632/167311962-f801970e-f9e6-4987-bcb8-58fec7e5f60a.jpg)
 
 ## :fire: Iniciando a aplicação :fire:
 
@@ -41,8 +37,8 @@ yarn
 yarn start
 ```
 
-_Resultado:_
+### Resultado:
 
----
+## Desenvolvido por ![background-gc5ba4e1a7_1280](https://user-images.githubusercontent.com/56550632/167247053-9f05dd2d-e4be-47a1-9385-cada92cbc293.jpg)
 
 By [Flávio Áquila](https://www.linkedin.com/in/flavioaquila/) :purple_heart:

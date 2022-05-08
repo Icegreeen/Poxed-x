@@ -10,7 +10,7 @@ export const Wrapper = styled.main`
 
 export const Welcome = styled.h1`
   font-size: 4em;
-  margin-top: 80px;
+  margin-top: 50px;
 `;
 
 export const Instructions = styled.span`
@@ -21,7 +21,10 @@ export const Instructions = styled.span`
 export const Form = styled.form`
   margin-top: 40px;
   display: flex;
-  height: 60px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 `;
 
 export const Input = styled.input`
@@ -87,8 +90,8 @@ export const PokemonName = styled.h2`
 `;
 
 export const Avatar = styled.img`
-  height: 230px;
-  width: 230px;
+  height: 200px;
+  width: 200px;
 `;
 
 export const PokemonDetails = styled.div`
