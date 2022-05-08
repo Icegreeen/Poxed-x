@@ -37,8 +37,4 @@ yarn
 yarn start
 ```
 
-### Resultado:
-
-## Desenvolvido por ![background-gc5ba4e1a7_1280](https://user-images.githubusercontent.com/56550632/167247053-9f05dd2d-e4be-47a1-9385-cada92cbc293.jpg)
-
-By [Flávio Áquila](https://www.linkedin.com/in/flavioaquila/) :purple_heart:
+#### Desenvolvido por [Flávio Áquila](https://www.linkedin.com/in/flavioaquila/) :purple_heart:
