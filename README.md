@@ -1,6 +1,9 @@
-<h3 align="center">
-    <a">🔗 A aplicação consiste no desenvolvimento de uma Poxedéx utilizando a PokéAPI</a>
-</h3>
+<h1 align="center">
+    <a">🔗 Poxedéx</a>
+</h1>
+<p align="center">🚀 Aplicação que consulta pokémons na PokéAPI.</p>
+
+> Project status: Completed :heavy_check_mark: [Click here to view!](https://resplendent-liger-a99762.netlify.app/)
 
 ## ![bg(2)](https://user-images.githubusercontent.com/56550632/167311962-f801970e-f9e6-4987-bcb8-58fec7e5f60a.jpg)
 
